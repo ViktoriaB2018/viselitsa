@@ -6,6 +6,8 @@
 Об игре и подробные правила на [Википедии](https://ru.wikipedia.org/wiki/Виселица_(игра))
 
 ## Как запустить
+`bundle exec bundle install`
+
 `ruby main.rb`
 
 ## Как играть
